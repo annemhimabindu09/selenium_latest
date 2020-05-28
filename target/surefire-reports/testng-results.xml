@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-28T13:31:32Z" name="com.fta.javaasmt.question2.BalancedParanthesisTest" finished-at="2020-05-28T13:31:32Z" duration-ms="108">
+    <groups>
+    </groups>
+    <test started-at="2020-05-28T13:31:32Z" name="Command line test" finished-at="2020-05-28T13:31:32Z" duration-ms="108">
+      <class name="com.fta.javaasmt.question2.BalancedParanthesisTest">
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="73" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input1.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1642]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input2.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input3.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input4.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input5.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input6.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input7.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+        <test-method signature="allTests(java.lang.String, java.lang.String, int)[pri:0, instance:com.fta.javaasmt.question2.BalancedParanthesisTest@4331d187]" started-at="2020-05-28T13:31:32Z" name="allTests" data-provider="testData" finished-at="2020-05-28T13:31:32Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src\main\resources\input8.txt\]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allTests -->
+      </class> <!-- com.fta.javaasmt.question2.BalancedParanthesisTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.fta.javaasmt.question2.BalancedParanthesisTest -->
+</testng-results>
